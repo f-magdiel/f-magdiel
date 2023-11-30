@@ -1,7 +1,7 @@
 <div aling="center">
   <h1 aling="center"> Hola, Soy Magdiel Asicona ✌️</h1>
 </div>
- Un apasionado estudiante de Ingeniería en Ciencias y Sistemas con un año de experiencia en el mundo de la programación. Mi polivalencia se refleja en mi dominio de diversos lenguajes de programación como Python, Go, Java, JavaScript, TypeScript, C/C++, y C#.
+ Un apasionado estudiante de Ingeniería en Ciencias y Sistemas con de experiencia en el mundo de la programación. Mi polivalencia se refleja en mi dominio de diversos lenguajes de programación como Python, Go, Java, JavaScript, TypeScript, C/C++, y C#.
 
 En el ámbito de bases de datos, me siento cómodo trabajando con MySQL, SQL Server y tengo cierta experiencia en MongoDB. Además, estoy familiarizado con los servicios en la nube de AWS, como RDS, EC2, S3, entre otros.
 
